@@ -1,5 +1,4 @@
 # Rubik’s Cube 3D Web Project
-
 This project is an interactive 3D Rubik’s Cube implemented using A-Frame and Three.js. It runs directly in the browser and allows users to interact with the cube through simple controls.
 
 ## Features
@@ -55,4 +54,7 @@ Open `index.html` in your browser.
 - Improved UI/UX
 - Sound effects for interactions
 
+## Context
+This project was developed as part of the "Computer Graphics" course at the Department of Informatics, Ionian University.
 
+ 
